@@ -5,11 +5,12 @@
 
 ### FAQ: 
 ```bash
-python version == 3.6 
+python version == 3.7.7 (64 bit)
 ```
 
 ### To install Rasa and Rasa X 
 ```python
+virtualenv venv37 -p C:\Program Files\Python37\python.exe
 virtualenv env -p C:\Users\User\AppData\Local\Programs\Python\Python36\python.exe
 ```
 activate the python environment
